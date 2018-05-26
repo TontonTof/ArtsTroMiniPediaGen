@@ -1,0 +1,21 @@
+[b]Catégories :[/b]%cat%
+
+[hr]
+[b]Fiche :[/b]
+%resume
+
+[url=%lien]%lien[/url]
+
+[hr]
+[img]%image[/img]
+
+[hr]
+[b]Quizz :[/b]
+
+Question : %question%
+
+Réponse 1 :  %reponse1%
+Réponse 2 : %reponse2%
+Réponse 3 :  %reponse3%
+
+Réponse juste : %reponsejuste%
